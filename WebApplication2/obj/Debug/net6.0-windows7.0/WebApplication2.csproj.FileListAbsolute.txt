@@ -28,3 +28,4 @@ C:\Users\stron\Desktop\repos\WebApplication2\WebApplication2\obj\Debug\net6.0-wi
 C:\Users\stron\Desktop\repos\WebApplication2\WebApplication2\obj\Debug\net6.0-windows7.0\WebApplication2.pdb
 C:\Users\stron\Desktop\repos\WebApplication2\WebApplication2\obj\Debug\net6.0-windows7.0\WebApplication2.genruntimeconfig.cache
 C:\Users\stron\Desktop\repos\WebApplication2\WebApplication2\obj\Debug\net6.0-windows7.0\ref\WebApplication2.dll
+C:\Users\stron\Desktop\repos\WebApplication2\WebApplication2\bin\Debug\net6.0-windows7.0\Views\Home\Index.cshtml
